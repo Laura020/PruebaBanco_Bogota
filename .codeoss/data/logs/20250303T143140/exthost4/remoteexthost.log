@@ -1,0 +1,25 @@
+2025-03-03 15:09:33.338 [info] Extension host with pid 1972 started
+2025-03-03 15:09:33.338 [error] Error: EEXIST: file already exists, open '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c/vscode.lock'
+2025-03-03 15:09:33.348 [info] Lock '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-03-03 15:09:33.368 [info] Lock '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c/vscode.lock': The lock does not look stale, elapsed: 950 ms, giving up.
+2025-03-03 15:09:33.384 [error] Error: EEXIST: file already exists, open '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c-1/vscode.lock'
+2025-03-03 15:09:33.385 [info] Lock '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-03-03 15:09:33.385 [info] Lock '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c-1/vscode.lock': The lock does not look stale, elapsed: 599 ms, giving up.
+2025-03-03 15:09:33.386 [error] Error: EEXIST: file already exists, open '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c-2/vscode.lock'
+2025-03-03 15:09:33.387 [info] Lock '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c-2/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-03-03 15:09:33.388 [info] Lock '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c-2/vscode.lock': The lock does not look stale, elapsed: 422 ms, giving up.
+2025-03-03 15:09:33.395 [info] Lock '/home/laura199863/.codeoss/data/User/workspaceStorage/2e83826c-3/vscode.lock': Lock acquired.
+2025-03-03 15:09:33.515 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-03 15:09:33.624 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-03 15:09:33.625 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-03 15:09:34.027 [info] Eager extensions activated
+2025-03-03 15:09:34.028 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-03-03 15:09:34.028 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2025-03-03 15:09:34.029 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2025-03-03 15:09:34.030 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-03 15:09:34.030 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-03 15:09:35.365 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-03-03 15:09:37.820 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-03 15:09:37.821 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-03 15:09:37.821 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-03 15:09:37.822 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
