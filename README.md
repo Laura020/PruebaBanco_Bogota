@@ -4,7 +4,7 @@
 
 Este proyecto es una prueba técnica para el desarrollo de un sistema de gestión bancaria. 
 El objetivo de esta prueba es diseñar e implementar un **Data Warehouse (DWH)** utilizando un **modelo dimensional estrella** para almacenar, procesar y analizar datos relacionados con las transacciones bancarias, clientes y productos financieros.
-Obteniendo como resultado algunos entregables que se detallan a continuación, adicionalmente estos entregables los encontrarán en la URL del proyecto en GIT y estarán nombrados de la misma manera como se detalla en este documento.
+\n Obteniendo como resultado algunos entregables que se detallan a continuación, adicionalmente estos entregables los encontrarán en la URL del proyecto en GIT y estarán nombrados de la misma manera como se detalla en este documento.
 URL GitHub: https://github.com/Laura020/PruebaBanco_Bogota.git
 Entregables de documentos a tener en cuenta:
 1.	datos_transacciones.csv
